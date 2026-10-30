@@ -24,7 +24,7 @@ Building scalable quality engineering solutions and exploring how AI can improve
 
 ## 👨‍💻 About Me
 
-I'm a **Software Development Engineer in Test (SDET)** with **8+ years of experience** in software quality, test automation, and quality engineering.
+I'm a **Software Development Engineer in Test (SDET)** with **10 years of experience** in software quality, test automation, and quality engineering.
 
 My work focuses on designing maintainable automation solutions, improving testing processes, integrating quality into engineering workflows, and applying modern AI technologies across the software testing lifecycle.
 
