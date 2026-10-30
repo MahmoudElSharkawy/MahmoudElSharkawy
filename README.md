@@ -175,6 +175,8 @@ My open-source interests include:
 
 I created and maintain **iTestFlow** as an exploration of the next generation of **AI-assisted quality engineering and software testing workflows**.
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/MahmoudElSharkawy/badge.svg)](https://hub.xerj.org/contributors/MahmoudElSharkawy)
+
 ---
 
 ## 🎯 Current Focus
